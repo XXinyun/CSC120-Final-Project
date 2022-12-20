@@ -31,5 +31,6 @@ This game is a escape room. You are trapped in this samll room that is filled wi
 # SPOILER ALERT
 
 If your game includes challenges that must be overcome to win, also list them below.
+
 There are unlimited steps but the key and the exit are both not far from where you started with.
 Good luck on finding the key and the EXIT. Little surprises on the way might help.

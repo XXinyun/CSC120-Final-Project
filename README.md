@@ -14,7 +14,7 @@ We thought about doing a totally discovering (open) game and allowing people to 
 ## Additional Reflection Questions
  - What was your **overall approach** to tackling this project?
  
-We used Object oriented programing to set up two classes one for bag which is a aggregation (part of ) the human class and we set up and main method to deal with the text based game and use the methods from the human class.
+We used Object oriented programing to set up three classes one for Bag class which is a aggregation (part of ) the human class and a Room class that have the map to record the coordinates that is associated with the Human class we set up and main method to deal with the text based game and use the methods from the Human class and the other two classes.
  
  The overall approach we did is start from designing the structures, try write codes, adjusts codes. Our principle is the S^4 method mostly. We've started small, which we concidered about how to write a code about excaping a room and players met something on the way and use them. Then, we tried to enrich the contents of the methods and contents of "surprising things" in the room. After we got some simple tries successfully compiled, we tried to add more things to make it complete and more interesting. Finally, we ended with what our target is (approximately yes!).
  
@@ -49,7 +49,7 @@ I would say to limit imagination into small things which might be the reason we 
  
  - _If you worked with a team:_ please comment on how your **team dynamics** influenced your experience working on this project.
 
-I think we just wrote the code together and did every thinking step together and didn't like seperate and then bundle the codes we wrote seperately. It is inefficient but we got to know each other's ideas and better know what we wanted to write the game as.
+I think we just wrote the code together and did every thinking step together and didn't like seperate and then bundle the codes we wrote seperately. It is inefficient but we got to know each other's ideas and better know what we wanted the game to be like and also can work together and ask her to help debug.
  
  We used to think we could clearly seperate our work evenly. However, the truth is that can never work. I have surprisingly found out people are specialized in different things while it's more efficient if we work together to make progress. Since at the same time we wrote codes, we talked and we got to know what is in each others' mind. In this way, we have made sure that we are in the same pace. This method might not work for mature programmer since that's inefficient. However, for people like us, who both only want to learn something about java but never expected the difficulty level, this method is extremely benefit.
  No matter what, we have been satisfied and proud of the outcomes in the final project. At least, for several players experienced in class, they look happy and seem to be surprised about what they found and how they approached the exit. With the hint, everyone found their way out. I believe this is one of the most meaningful things in final period.

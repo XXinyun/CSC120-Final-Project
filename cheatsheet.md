@@ -3,15 +3,25 @@ This file will contain documentation for all commands available in your game.
 Note:  It's a good idea to also make this list available inside the game, in response to a `HELP` command.
 # List of Commands
 grab
+
 examine
+
 drop
+
 left
+
 right
+
 front
+
 back
+
 map
+
 help
+
 yes/no (in response to question of -> Do you like the fairy?)
+
 
 # Description of layout
 
